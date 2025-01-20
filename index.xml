@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ISC 2025</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on ISC 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Sep 2024 19:19:02 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Papers</title>
+      <link>//localhost:1313/call-for-papers/</link>
+      <pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate>
+      <guid>//localhost:1313/call-for-papers/</guid>
+      <description>The Information Security Conference (ISC) is an annual international conference covering research in theory and applications of Information Security. ISC aims to attract high quality papers in all technical aspects of information security. This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.&#xA;Types of Submissions Solicited Papers on all technical aspects of information security, cryptography, and privacy are solicited for submission.</description>
+    </item>
+    <item>
+      <title>Committee</title>
+      <link>//localhost:1313/committee/</link>
+      <pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate>
+      <guid>//localhost:1313/committee/</guid>
+      <description>General Chair&#xA;Qiang Zeng (George Mason University, USA)&#xA;Program Chairs&#xA;Nick Nikiforakis (Stony Brook University, USA)&#xA;Nicky Mouha (Strativia &amp;amp; NIST Associate, USA)&#xA;Steering Committee&#xA;Zhiqiang Lin (The Ohio State University)&#xA;Javier Lopez (University of Malaga)&#xA;Masahiro Mambo (Kanazawa University)&#xA;Bart Mennink (Radboud University Nijmegen)&#xA;Eiji Okamoto (University of Tsukuba)&#xA;Michalis Polychronakis (Stony Brook University)&#xA;Willy Susilo (University of Wollongong)&#xA;Jianying Zhou (Singapore University of Technology and Design)&#xA;Publications Chair</description>
+    </item>
+    <item>
+      <title>Accepted Papers</title>
+      <link>//localhost:1313/accepted-papers/</link>
+      <pubDate>Mon, 05 Aug 2024 14:24:34 +0800</pubDate>
+      <guid>//localhost:1313/accepted-papers/</guid>
+      <description>JSHint: Revealing API Usage to Improve Detection of Malicious JavaScript S. Sarker, A. Nahapetyan, A. Das, A. Kapravelos Optimizing label-only membership inference attacks by global relative decision boundary distances J. Xu, C. Yu, J. Hu, C. Tan The Formal Verification of Aptos Coin K. Chen, J. luo, L. Loh, X. Wang, Z. Zhang Solving McEliece-1409 in One Day &amp;mdash; Cryptanalysis with the Improved BJMM Algorithm S. Narisada, S. Uemura, H.</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>//localhost:1313/registration/</link>
+      <pubDate>Mon, 05 Aug 2024 14:32:04 +0800</pubDate>
+      <guid>//localhost:1313/registration/</guid>
+      <description>Authors: At least one author from each accepted paper must complete a regular registration for the conference prior to September 2 and is expected to present it in person at the conference. If there is a clearly explained, objective reason that prevents all the authors of a paper from traveling (e.g., officially rejected visa applications), please contact Qiang Zeng (zeng@gmu.edu) to reach a solution. Warning: If you fail to complete the registration or do not present the paper in person without an approved solution, your paper may not be included in the conference program or the final conference proceedings.</description>
+    </item>
+    <item>
+      <title>Keynotes</title>
+      <link>//localhost:1313/keynote/</link>
+      <pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate>
+      <guid>//localhost:1313/keynote/</guid>
+      <description>Title: Symmetric-key Cryptography for Memory Encryption Speaker: Kazuhiko Minematsu (NEC and Yokohama National University)&#xA;Date: October 23, 2024 Abstract: Recent threats on computer memory increase the need for memory protection against eavesdropping or tampering, requiring the use of symmetric-key cryptography community for low-latency encryption. This talk discusses research directions and technological advancements of low-latency encryption and its application to memory encryption.&#xA;Biography: Kazuhiko Minematsu received his B.E., M.E. and Dr.S. degrees at Waseda University, Japan, in 1996, 1998, and 2008.</description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>//localhost:1313/schedule/</link>
+      <pubDate>Tue, 17 Sep 2024 19:19:02 -0400</pubDate>
+      <guid>//localhost:1313/schedule/</guid>
+      <description>Wed. 23 Oct 2024 (Day 1)&#xA;Time (ET) Event 09:00 - 09:30 Registrations 09:30 - 10:00 Welcome Statement by General and PC Co-chairs 10:00 - 11:00 Keynote by Dr. Kazuhiko Minematsu - Session chair: Nicky Mouha 11:00 - 11:30 Break 1 (30 min) 11:30 - 12:10 Session 1: Cryptography - Blockchain (2 talks) - Session chair: Masahiro Mambo Solving McEliece-1409 in One Day — Cryptanalysis with the Improved BJMM Algorithm The Formal Verification of Aptos Coin 12:10 - 13:30 Lunch 13:30 - 14:30 Session 2: Cryptography - Symmetric-Key Cryptography (3 talks) - Session chair: Kazuhiko Minematsu MILP/MIQCP-Based Differential-Linear Cryptanalysis on CHAM-64/128 Security Analysis of CMAC in the Multi-User Model Quantum Key Recovery Attacks on 4-round Iterated Even-Mansour with Two Keys 14:30 - 14:50 Break 2 (20 min) 14:50 - 15:30 Session 3: Systems - Protocol security (2 talks) - Session Chair: Nick Nikiforakis Channel Robust Strategies with Data Augmentation for Audio Anti-Spoofing Property Guided Secure Configuration Space Search 15:30 - 16:00 Break 3 (30 min) 16:00 - 17:00 Session 4: Systems - Web Security (3 talks) - Session Chair: Billy Tsouvalas JSHint: Revealing API Usage to Improve Detection of Malicious JavaScript (Best Paper Award) We have Phishing at Home: Quantitative Study on Email Phishing Susceptibility in Private Contexts Automated Generation of Behavioral Signatures for Malicious Web Campaigns 17:30 - 19:30 Reception (at the Gallery) Thu.</description>
+    </item>
+    <item>
+      <title>Venue</title>
+      <link>//localhost:1313/venue/</link>
+      <pubDate>Wed, 06 Mar 2024 14:07:09 -0500</pubDate>
+      <guid>//localhost:1313/venue/</guid>
+      <description>ISC&#39;24 will be held in the Van Metre Hall at Mason Square of GMU, see the location of the venue here.&#xA;Address: 3351 Fairfax Dr, Arlington, VA 22201&#xA;Nearby Airports:&#xA;Washington Dulles International Airport (IAD) Washington Reagan Airport (DCA) Transportation: Uber, Lyft, Metro (Station: Virginia Square-GMU)&#xA;Parking: Visitor parking is available in the Van Metre Hall parking garage (all day: $19).&#xA;Nearby Hotels:&#xA;Hilton Arlington (0.6 mi away; 18 min walking)</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Wed, 06 Mar 2024 14:07:09 -0500</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>Contact for:&#xA;Registration, Invitation letter, etc. please send an email to Local Organization Team Xiaoyue Ma. Issues about the paper submission, please contact the PC chairs: Nicky Mouha and Nick Nikiforakis. </description>
+    </item>
+    <item>
+      <title>ISC Code of Conduct</title>
+      <link>//localhost:1313/code-of-conduct/</link>
+      <pubDate>Wed, 28 Aug 2024 11:53:49 -0400</pubDate>
+      <guid>//localhost:1313/code-of-conduct/</guid>
+      <description>Thank you for attending ISC’24. At ISC, we are dedicated to providing a safe and enjoyable event experience for all participants, fostering a welcoming environment for open discussion and the exchange of ideas. Harassment in any form will not be tolerated.&#xA;Our Expectations: Be Inclusive, Considerate, Respectful, and Kind&#xA;ISC is a community that welcomes and supports people of all backgrounds and identities. Always conduct yourself professionally, whether onsite, online, or when using social media, including the ISC hashtag.</description>
+    </item>
+  </channel>
+</rss>

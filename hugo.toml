@@ -1,0 +1,18 @@
+theme = 'mainroad'
+title = 'ISC 2025'
+[Params.style.vars]
+  highlightColor = "#846900"
+
+[Params.logo]
+  image = "img/logo.png"
+  title = false
+  subtitle = false
+
+[Params]
+copyright = "ISC 2025"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true

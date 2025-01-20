@@ -1,0 +1,101 @@
+
+<style>
+    table {
+        border-collapse: collapse;
+        border: none;
+    }
+    td {
+        border: solid windowtext 1.0pt;
+        vertical-align: middle;
+    }
+    .centered {
+        text-align: center;
+    }
+    .tdheader {
+        background-color: #92D050;
+    }
+    .timezone {
+        background-color: #0070C0;
+        color: white;
+    }
+    .block-crypto {
+        background-color: #F7CAAC;
+    }
+    .keynote {
+        background-color:#6fe0fa ;
+    }
+    .break {
+        background-color: #FFE599;
+    }
+    .ex1t {
+        background-color: #F7CAAC;
+    }
+</style>
+<div align="center" style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;text-align:justify;line-height:107%;font-size:16px;">
+    <table style="border-collapse:collapse;border:none;">
+            <tbody>
+                <tr>
+                    <td colspan="4" class="tdheader">
+                        <p class="centered">{{site.Data.schedule.day1.title}}</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="centered"><b>Time (ET)</b></td>
+                    <td colspan="2" class="centered"><b>Event</b></td>
+                </tr>
+                {{ range site.Data.schedule.day1.content }}
+                <tr>
+                    <td class="centered">{{ .time }}</td>
+                    
+                    <td colspan="2" class="centered {{ .class }}">{{ .detail|markdownify }}</td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+</div>
+
+<div align="center" style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;text-align:justify;line-height:107%;font-size:16px;">
+    <table style="border-collapse:collapse;border:none;">
+            <tbody>
+                <tr>
+                    <td colspan="4" class="tdheader">
+                        <p class="centered">{{site.Data.schedule.day2.title}}</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="centered"><b>Time (ET)</b></td>
+                    <td colspan="2" class="centered"><b>Event</b></td>
+                </tr>
+                {{ range site.Data.schedule.day2.content }}
+                <tr>
+                    <td class="centered">{{ .time }}</td>
+                    
+                    <td colspan="2" class="centered {{ .class }}">{{ .detail|markdownify }}</td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+</div>
+
+<div align="center" style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;text-align:justify;line-height:107%;font-size:16px;">
+    <table style="border-collapse:collapse;border:none;">
+            <tbody>
+                <tr>
+                    <td colspan="4" class="tdheader">
+                        <p class="centered">{{site.Data.schedule.day3.title}}</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="centered"><b>Time (ET)</b></td>
+                    <td colspan="2" class="centered"><b>Event</b></td>
+                </tr>
+                {{ range site.Data.schedule.day3.content }}
+                <tr>
+                    <td class="centered">{{ .time }}</td>
+                    
+                    <td colspan="2" class="centered {{ .class }}">{{ .detail|markdownify }}</td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+</div>
